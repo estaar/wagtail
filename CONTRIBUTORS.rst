@@ -495,6 +495,8 @@ Contributors
 * Joshua Marantz
 * Mike Brown
 * Helder Correia
+* James Gutu
+* John Esther
 
 Translators
 ===========
